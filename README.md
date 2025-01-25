@@ -243,7 +243,7 @@
             <div class="image">
                 <img src="foto2.jpeg" alt="Your Love's Picture 1">
             </div>
-            <div class="signature">With all my hopes, Andi Irfan Maulana</div>
+            <div class="signature">Sedikit ucapan dari saya, Andi Irfan Maulana</div>
             <button class="next-btn" onclick="nextSlide(1)">Next</button>
         </div>
 
