@@ -314,6 +314,4 @@
             window.open(url, "_blank");
         }
     </script>
-</body>
-</html>
-`
+
