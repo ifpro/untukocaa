@@ -235,7 +235,7 @@
 
     <div class="container main-content">
         <div class="slide active">
-            <div class="title">Halo spesialku <span id="displayName"></span>!</div>
+            <div class="title">Halo Perempuan Spesialku <span id="displayName"></span>!</div>
             <div class="message">
                 heheh Aneh toh ada yang dekatiki orang seperti saya wkwkw, tapi nda bercandaka untuk dekatiki ini, mungki nda terbiasaki dengan orang seperti saya hehe nda tauka mau buatkan ki cuma iniji saya bisa buatkan ki.
             </div>
