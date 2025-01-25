@@ -310,7 +310,7 @@
 
         function sendGiftRequest() {
             var userName = document.getElementById("userName").value;
-            var url = "https://api.whatsapp.com/send?phone=+6285345674445&text=" + encodeURIComponent("Happy Birthday! dihari spesialta mauki kado apa? " + userName);
+            var url = "https://api.whatsapp.com/send?phone=+6285345674445&text=" + encodeURIComponent("berharapka bisa selalu sama kita hehe, saya harap jawabta nah? " + userName);
             window.open(url, "_blank");
         }
     </script>
